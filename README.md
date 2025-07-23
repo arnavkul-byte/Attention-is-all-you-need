@@ -24,7 +24,7 @@ This implementation follows the original Transformer architecture. The model con
 * The **Decoder**, given $\mathbf{z}$, generates an output sequence $(y_1, ..., y_m)$ one element at a time, using the previously generated symbols as additional input.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/google-research/tensor2tensor/master/tensor2tensor/visualization/transformer.png" alt="Transformer Architecture Diagram" width="400"/>
+  <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="Transformer Architecture Diagram" width="400"/>
   <br>
   <em>The Transformer model architecture from the original paper.</em>
 </p>
